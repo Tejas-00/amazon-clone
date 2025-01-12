@@ -68,7 +68,7 @@ document.querySelectorAll('.js-add-to-cart-button')
       if (matchingItem) matchingItem.quantity++;
       else {
         cart.push({
-        productName: productName,
+        productId: productId,
         quantity: 1
       })
       console.log(cart);
