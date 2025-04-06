@@ -16,7 +16,7 @@ This is a **JavaScript-based Amazon clone**, created as a learning project by fo
 
 - ⚡ JavaScript  
 - 🎨 HTML & CSS  
-- 📚 Learned from [SuperSimpleDev](link-to-tutorial) tutorials  
+- 📚 Learned from [SuperSimpleDev](https://www.youtube.com/watch?v=EerdGm-ehJQ&t=70361s) tutorials  
 
 ## 🚀 Installation  
 
